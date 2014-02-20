@@ -1,10 +1,10 @@
 {
    "abstract" : "An evil mod_perl-like Mason handler under L<Plack>",
    "author" : [
-      "\u00c3\u0086var Arnfj\u00c3\u00b6r\u00c3\u00b0 Bjarmason <avar@cpan.org>"
+      "Ævar Arnfjörð Bjarmason <avar@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300040, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 5.013, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "perl_5"
    ],
@@ -52,6 +52,6 @@
          "web" : "http://github.com/avar/html-masonx-apachelikeplackhandler"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 
